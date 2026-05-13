@@ -5,6 +5,7 @@
 Passionate about building full-stack web applications, backend APIs, and automation tools using modern JavaScript technologies.
 
 ---
+
 ## 🚀 About Me
 
 - 🔭 Currently working on Full Stack Web Development Projects
@@ -46,8 +47,14 @@ Passionate about building full-stack web applications, backend APIs, and automat
 ### 🏨 Stayo - Online Hotel Booking Web Application
 Built a MERN-based hotel booking platform with hotel listings, booking features, authentication, and responsive UI.
 
-### 🔗 LinkedIn Automation Project
-Developed automation workflows and backend APIs using Node.js and Puppeteer.
+### 🔗 LinkedIn Job Automation API
+Built backend automation APIs using Node.js and Express.js for handling LinkedIn-related workflows.
+
+### 👨‍🎓 LinkedIn Student Finder
+Created a platform for filtering and managing LinkedIn student-related data and automation features.
+
+### 🌐 Placify Frontend
+Frontend web application focused on responsive UI and modern React.js development.
 
 ---
 
