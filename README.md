@@ -22,7 +22,7 @@
 
 ---
 
-## 💻 Tech Stack
+# 🛠️ Tech Stack
 
 ## 💻 Frontend
 
@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## 🛠️ Tools & Platforms
+## 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,vercel,netlify" />
