@@ -1,8 +1,14 @@
 # Hi, I'm Samal Kumar Choudhary 👋
 
-## MERN Stack & Backend Developer
+## Full Stack & Backend Developer
 
-Passionate about building full-stack web applications, backend APIs, and automation tools using modern JavaScript technologies.
+🎓 Final Year B.Tech (IT) Student
+
+💼 Full Stack Intern @ IISPPR
+
+🚀 Building scalable web applications with React, Node.js, Express.js, MongoDB, and Java
+
+📫 Open to Internship and Software Developer Opportunities
 
 ---
 
