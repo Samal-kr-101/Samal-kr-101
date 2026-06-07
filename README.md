@@ -18,29 +18,29 @@ Passionate about building full-stack web applications, backend APIs, and automat
 
 ## 💻 Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
+## 💻 Frontend
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+</p>
 
-### Database
-- MongoDB
-- MySQL
+## ⚙️ Backend
 
-### Tools
-- Git
-- GitHub
-- Postman
-- Render
-- Vercel
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</p>
 
----
+## 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,vercel,netlify" />
+</p>
 
 ## 🚀 Featured Projects
 
