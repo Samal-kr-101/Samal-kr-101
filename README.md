@@ -2,7 +2,7 @@
 
 ## Full Stack & Backend Developer
 
-🎓 Final Year B.Tech (IT) Student
+🎓 Final Year B.Tech Student
 
 💼 Full Stack Intern @ IISPPR
 
