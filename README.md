@@ -26,7 +26,7 @@
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Focus Areas
 
 - ⚙️ System Design & Backend Architecture  
 - 🚀 Scalable REST APIs & Full Stack Apps  
@@ -35,25 +35,31 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
 </p>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+---
+
+## Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,tailwind" />
 </p>
 
-### Database
-<p>
+---
+
+## Database
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools & DevOps
-<p>
+---
+
+## Tools & DevOps
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
 </p>
 
