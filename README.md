@@ -48,19 +48,22 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,vercel,netlify" />
 </p>
 
-## 🚀 Featured Projects
+🚀 Featured Projects
+📝 Task Flow – MERN Task Management System
 
-### 🏨 Stayo - Online Hotel Booking Web Application
-Built a MERN-based hotel booking platform with hotel listings, booking features, authentication, and responsive UI.
+Full-stack task manager with authentication, CRUD operations, and task status tracking. Built with MERN stack and REST APIs.
 
-### 🔗 LinkedIn Job Automation API
-Built backend automation APIs using Node.js and Express.js for handling LinkedIn-related workflows.
+🤖 MockMate – AI Mock Interview Platform
 
-### 👨‍🎓 LinkedIn Student Finder
-Created a platform for filtering and managing LinkedIn student-related data and automation features.
+AI-based interview platform with automated question generation, role-based interview flow, and evaluation system.
 
-### 🌐 Placify Frontend
-Frontend web application focused on responsive UI and modern React.js development.
+🎨 Thumblify – Thumbnail Generator Tool
+
+Web tool for creating and customizing thumbnails with reusable templates and responsive UI.
+
+🏨 Stayo – Hotel Booking Platform
+
+MERN-based hotel booking system with listings, booking functionality, authentication, and responsive design.
 
 ---
 
