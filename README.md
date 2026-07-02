@@ -8,9 +8,15 @@
 
 ---
 
+<!-- <p align="center">
+  <a href="mailto:samalkr7739@gmail.com">
+    <img src="https://img.shields.io/badge/📩%20Hire%20Me-Click%20to%20Email%20Now-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p> -->
+
 <p align="center">
   <a href="mailto:samalkr7739@gmail.com">
-    <img src="https://img.shields.io/badge/🚀-Open%20to%20Internships%20%26%20Full%20Time%20Roles-ff4d4d?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀%20Hire%20Me-Available%20for%20Internships%20%26%20Jobs-00C853?style=for-the-badge" />
   </a>
 </p>
 
