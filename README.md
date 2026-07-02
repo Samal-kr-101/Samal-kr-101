@@ -48,7 +48,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,vercel,netlify" />
 </p>
 
-🚀 Featured Projects
+## 🚀 Featured Projects
+
 📝 Task Flow – MERN Task Management System
 
 Full-stack task manager with authentication, CRUD operations, and task status tracking. Built with MERN stack and REST APIs.
