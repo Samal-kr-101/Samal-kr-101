@@ -1,25 +1,45 @@
-# 👋 Hi, I'm Samal Kumar Choudhary
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Samal%20Kumar%20Choudhary&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-### 🚀 Full Stack & Backend Developer | MERN & Java Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Developer+%7C+Node.js+%7C+Java;Building+Scalable+Web+Applications" />
+</p>
+
+---
+
+# 👋 About Me
+
+🚀 Full Stack & Backend Developer  
 🎓 Final Year B.Tech Student  
 💼 Full Stack Intern @ IISPPR  
 📍 India  
 
-💡 I build scalable web applications using **MERN Stack, Node.js, Express.js, MongoDB, and Java** with a focus on clean architecture and performance.
+💡 I build **scalable, real-world web applications** using MERN Stack, Node.js, Express.js, MongoDB, and Java.
 
-📫 Open to Internship & Software Developer Opportunities  
+📫 Open to Internship & Software Developer Roles
+
+---
+
+## 💼 Hire Me
+
+<p align="center">
+  <a href="mailto:samalkr7739@gmail.com">
+    <img src="https://img.shields.io/badge/🚀%20Hire%20Me-Available%20for%20Internships%20%26%20Jobs-ff4d4d?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ About Me
 
-- 🔭 Currently building full-stack SaaS & AI-based projects  
-- 🌱 Learning Backend System Design & Scalable APIs  
-- 👯 Open to MERN Stack & Open Source Collaboration  
+- 🔭 Building Full Stack & AI-based projects  
+- 🌱 Learning System Design & Scalable Backend Architecture  
+- 👯 Open to MERN / Open Source collaboration  
 - 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB  
-- 🎯 Goal: Become a strong Backend / Full Stack Engineer  
+- 🎯 Goal: Become a strong Backend Engineer  
 
-📧 Email: **samalkr7739@gmail.com**
+📧 **Email:** samalkr7739@gmail.com  
 
 ---
 
@@ -40,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
 </p>
@@ -49,17 +69,17 @@
 
 ## 🚀 Featured Projects
 
-### 📝 Task Flow – Task Management System (MERN Stack)
+### 📝 Task Flow – Task Management System (MERN)
 Full-stack task manager with authentication, CRUD operations, and task tracking using REST APIs.
 
 ### 🤖 MockMate – AI Mock Interview Platform
-AI-powered interview system with dynamic question generation, evaluation flow, and scalable backend architecture.
+AI-based interview system with automated question generation and evaluation flow.
 
 ### 🎨 Thumblify – Thumbnail Generator Tool
-Web tool for designing and customizing thumbnails with templates and fast UI rendering.
+Web tool for designing and customizing thumbnails using templates and fast UI rendering.
 
 ### 🏨 Stayo – Hotel Booking Platform
-MERN-based booking system with authentication, hotel listings, and responsive UI.
+MERN-based booking system with authentication, listings, and responsive UI.
 
 ### 🔗 LinkedIn Job Automation API
 Backend APIs for automating LinkedIn workflows using Node.js & Express.
@@ -74,28 +94,36 @@ Backend APIs for automating LinkedIn workflows using Node.js & Express.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samal-kr-101&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Samal-kr-101&theme=dark" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
-</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/samal-kumar-choudhary-0139582a9/  
-- 💻 GitHub: https://github.com/Samal-kr-101  
-- 📧 Email: samalkr7739@gmail.com  
+<p align="center">
+
+  <a href="mailto:samalkr7739@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-Open%20to%20Work-brightgreen?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/samal-kumar-choudhary-0139582a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Samal-kr-101">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge" />
+  </a>
+
+  <a href="mailto:samalkr7739@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge" />
+  </a>
+
+</p>
 
 ---
 
-## ✨ Random Dev Quote
+## ✨ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
