@@ -9,7 +9,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀-Open%20to%20Internships%20%26%20Full%20Time%20Roles-ff4d4d?style=for-the-badge" />
+  <a href="mailto:samalkr7739@gmail.com">
+    <img src="https://img.shields.io/badge/🚀-Open%20to%20Internships%20%26%20Full%20Time%20Roles-ff4d4d?style=for-the-badge" />
+  </a>
 </p>
 
 ---
