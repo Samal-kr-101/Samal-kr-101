@@ -1,90 +1,102 @@
-# Hi, I'm Samal Kumar Choudhary 👋
+# 👋 Hi, I'm Samal Kumar Choudhary
 
-## Full Stack & Backend Developer
+### 🚀 Full Stack & Backend Developer | MERN & Java Enthusiast  
+🎓 Final Year B.Tech Student  
+💼 Full Stack Intern @ IISPPR  
+📍 India  
 
-🎓 Final Year B.Tech Student
+💡 I build scalable web applications using **MERN Stack, Node.js, Express.js, MongoDB, and Java** with a focus on clean architecture and performance.
 
-💼 Full Stack Intern @ IISPPR
-
-🚀 Building scalable web applications with React, Node.js, Express.js, MongoDB, and Java
-
-📫 Open to Internship and Software Developer Opportunities
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on Full Stack Web Development Projects
-- 🌱 Learning MERN Stack and Backend Development
-- 👯 Interested in collaborating on MERN Stack & Open Source Projects
-- 💬 Ask me about JavaScript, React.js, Node.js, Express.js, MongoDB
-- 📫 Reach me at: samalkr7739@gmail.com
+📫 Open to Internship & Software Developer Opportunities  
 
 ---
 
-# 🛠️ Tech Stack
+## ⚡ About Me
 
-## 💻 Frontend
+- 🔭 Currently building full-stack SaaS & AI-based projects  
+- 🌱 Learning Backend System Design & Scalable APIs  
+- 👯 Open to MERN Stack & Open Source Collaboration  
+- 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB  
+- 🎯 Goal: Become a strong Backend / Full Stack Engineer  
 
+📧 Email: **samalkr7739@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
 </p>
 
-## ⚙️ Backend
-
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
 
-## 🗄️ Database
-
+### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## 🔧 Tools & Platforms
-
+### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
 </p>
-
-## 🚀 Featured Projects
-
-📝 Task Flow – MERN Task Management System
-
-Full-stack task manager with authentication, CRUD operations, and task status tracking. Built with MERN stack and REST APIs.
-
-🤖 MockMate – AI Mock Interview Platform
-
-AI-based interview platform with automated question generation, role-based interview flow, and evaluation system.
-
-🎨 Thumblify – Thumbnail Generator Tool
-
-Web tool for creating and customizing thumbnails with reusable templates and responsive UI.
-
-🏨 Stayo – Hotel Booking Platform
-
-MERN-based hotel booking system with listings, booking functionality, authentication, and responsive design.
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Samal-kr-101&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Samal-kr-101&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Samal-kr-101&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🚀 Featured Projects
 
+### 📝 Task Flow – Task Management System (MERN Stack)
+Full-stack task manager with authentication, CRUD operations, and task tracking using REST APIs.
+
+### 🤖 MockMate – AI Mock Interview Platform
+AI-powered interview system with dynamic question generation, evaluation flow, and scalable backend architecture.
+
+### 🎨 Thumblify – Thumbnail Generator Tool
+Web tool for designing and customizing thumbnails with templates and fast UI rendering.
+
+### 🏨 Stayo – Hotel Booking Platform
+MERN-based booking system with authentication, hotel listings, and responsive UI.
+
+### 🔗 LinkedIn Job Automation API
+Backend APIs for automating LinkedIn workflows using Node.js & Express.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Samal-kr-101&theme=dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Samal-kr-101&theme=dark&layout=compact" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Samal-kr-101&theme=dark&hide_border=false" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
 </div>
+
+---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/samal-kumar-choudhary-0139582a9/
-- GitHub: https://github.com/Samal-kr-101
-- Email: samalkr7739@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/samal-kumar-choudhary-0139582a9/  
+- 💻 GitHub: https://github.com/Samal-kr-101  
+- 📧 Email: samalkr7739@gmail.com  
 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✨ Random Dev Quote
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
