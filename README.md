@@ -78,6 +78,25 @@ Backend automation system built using Node.js & Express.js for workflow handling
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 📊 Contribution Grid
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samal-kr-101&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Samal-kr-101&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -85,9 +104,10 @@ Backend automation system built using Node.js & Express.js for workflow handling
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Samal-kr-101&theme=dark&layout=compact&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Samal-kr-101&theme=dark&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
