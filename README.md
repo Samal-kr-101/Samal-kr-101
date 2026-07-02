@@ -1,129 +1,125 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Samal%20Kumar%20Choudhary&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Samal%20Kumar%20Choudhary&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Developer+%7C+Node.js+%7C+Java;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Developer+%7C+Node.js+%7C+Java;Building+Scalable+%26+Production-Ready+Apps" />
 </p>
 
 ---
 
-# 👋 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Open%20to%20Internships%20%26%20Full%20Time%20Roles-ff4d4d?style=for-the-badge" />
+</p>
 
-🚀 Full Stack & Backend Developer  
+---
+
+# 💫 About Me
+
+👋 I’m a **Full Stack & Backend Developer** focused on building scalable, real-world applications.
+
 🎓 Final Year B.Tech Student  
 💼 Full Stack Intern @ IISPPR  
 📍 India  
 
-💡 I build **scalable, real-world web applications** using MERN Stack, Node.js, Express.js, MongoDB, and Java.
-
-📫 Open to Internship & Software Developer Roles
+💡 I specialize in **MERN Stack, Node.js, Express.js, MongoDB, and Java**, with a strong focus on clean architecture and backend systems.
 
 ---
 
-## 💼 Hire Me
+## 🎯 Current Focus
 
-<p align="center">
-  <a href="mailto:samalkr7739@gmail.com">
-    <img src="https://img.shields.io/badge/🚀%20Hire%20Me-Available%20for%20Internships%20%26%20Jobs-ff4d4d?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⚡ About Me
-
-- 🔭 Building Full Stack & AI-based projects  
-- 🌱 Learning System Design & Scalable Backend Architecture  
-- 👯 Open to MERN / Open Source collaboration  
-- 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB  
-- 🎯 Goal: Become a strong Backend Engineer  
-
-📧 **Email:** samalkr7739@gmail.com  
+- ⚙️ System Design & Backend Architecture  
+- 🚀 Scalable REST APIs & Full Stack Apps  
+- 🤖 AI-integrated Web Applications  
+- 🌐 Open Source Contribution  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
 
-### 🗄️ Database
+### Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🔧 Tools
+### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 📝 Task Flow – Task Management System (MERN)
-Full-stack task manager with authentication, CRUD operations, and task tracking using REST APIs.
+### 📝 Task Flow — Task Management System
+Full-stack MERN app with authentication, task lifecycle management, and REST API integration.
 
-### 🤖 MockMate – AI Mock Interview Platform
-AI-based interview system with automated question generation and evaluation flow.
+### 🤖 MockMate — AI Interview Platform
+AI-driven interview system with dynamic question flow and evaluation engine.
 
-### 🎨 Thumblify – Thumbnail Generator Tool
-Web tool for designing and customizing thumbnails using templates and fast UI rendering.
+### 🎨 Thumblify — Thumbnail Generator
+Modern UI tool for creating and customizing thumbnails using reusable templates.
 
-### 🏨 Stayo – Hotel Booking Platform
+### 🏨 Stayo — Hotel Booking Platform
 MERN-based booking system with authentication, listings, and responsive UI.
 
-### 🔗 LinkedIn Job Automation API
-Backend APIs for automating LinkedIn workflows using Node.js & Express.
+### 🔗 LinkedIn Automation API
+Backend automation system built using Node.js & Express.js for workflow handling.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Samal-kr-101&theme=dark&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Samal-kr-101&theme=dark&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Samal-kr-101&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Samal-kr-101&theme=dark&layout=compact&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samal-kr-101&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=Samal-kr-101&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 💼 Work With Me
 
 <p align="center">
-
   <a href="mailto:samalkr7739@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Open%20to%20Work-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀%20Hire%20Me-Available%20for%20Internships%20%26%20Jobs-00C853?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samal-kumar-choudhary-0139582a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://www.linkedin.com/in/samal-kumar-choudhary-0139582a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+  <a href="mailto:samalkr7739@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-FE7A16?style=for-the-badge&logo=gmail" />
   </a>
 
   <a href="https://github.com/Samal-kr-101">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-Projects-000000?style=for-the-badge&logo=github" />
   </a>
-
-  <a href="mailto:samalkr7739@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge" />
-  </a>
-
 </p>
 
 ---
 
-## ✨ Dev Quote
+## ✨ Dev Mindset
+
+> “I don’t just build projects — I build scalable systems that solve real problems.”
+
+---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
