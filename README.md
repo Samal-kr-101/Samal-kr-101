@@ -54,7 +54,7 @@
 
 ## Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,spring,postman,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,spring,docker,git,github" />
 </p>
 
 ---
